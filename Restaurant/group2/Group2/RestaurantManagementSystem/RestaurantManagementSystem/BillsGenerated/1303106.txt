@@ -1,0 +1,22 @@
+				Nitni
+				sdaf;;
+
+
+Order Type	:Home delivery		  		Transaction No.:1303106
+Date		:10-03-13 & 06:39		 No. of Guests	:1
+------------------------------------------------------------------------------------------------------
+Sr. No.	|Food Item	|Rate	|Quantity	|Amount
+1	Amritsari machchi 	275	1	275
+------------------------------------------------------------------------------------------------------
+Sub Total	:	Qty	:2
+         	 	Amount	:450
+
+
+Discount		:	Rs.0
+Service Charge	:	Rs.24.75
+Service Tax	:	Rs.1.22265
+VAT		:	Rs.45
+Grand Total	:	Rs.620.9727
+				Thank You!!
+
+

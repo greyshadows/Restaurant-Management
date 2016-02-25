@@ -1,0 +1,22 @@
+				sadf
+				f;;
+
+
+Order Type	:Dine In		  		Transaction No.:1303112
+Date		:11-03-13 & 16:53		 No. of Guests	:1
+------------------------------------------------------------------------------------------------------
+Sr. No.	|Food Item	|Rate	|Quantity	|Amount
+1	Beer	80	3	240
+------------------------------------------------------------------------------------------------------
+Sub Total	:	Qty	:3
+	 	Amount	:240
+
+
+Discount		:	Rs.4.800003
+Service Charge	:	Rs.5.900631E+18
+Service Tax	:	Rs.0
+VAT		:	Rs.4.704
+Grand Total	:	Rs.5.900631E+18
+				Thank You!!
+
+

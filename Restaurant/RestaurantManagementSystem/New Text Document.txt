@@ -1,0 +1,6 @@
+Forms to be opened
+Password hashing
+New user form
+Login better messages
+Application closes on "close" button
+Bill generation

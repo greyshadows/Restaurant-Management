@@ -1,0 +1,22 @@
+				Nitin
+				nitin;;
+
+
+Order Type	:Take out		  		Transaction No.:1303111
+Date		:11-03-13 & 17:00		 No. of Guests	:1
+------------------------------------------------------------------------------------------------------
+Sr. No.	|Food Item	|Rate	|Quantity	|Amount
+1	Aaloo Mutur (Green Peas)	80	2	160
+------------------------------------------------------------------------------------------------------
+Sub Total	:	Qty	:2
+	 	Amount	:160
+
+
+Discount		:	Rs.80
+Service Charge	:	Rs.9.12
+Service Tax	:	Rs.0.450528
+VAT		:	Rs.11.2
+Grand Total	:	Rs.105.7705
+				Thank You!!
+
+

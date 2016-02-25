@@ -1,0 +1,22 @@
+				w
+				w;;
+
+
+Order Type	:Dine In		  		Transaction No.:1303102
+Date		:10-03-13 & 09:23		 No. of Guests	:3
+------------------------------------------------------------------------------------------------------
+Sr. No.	|Food Item	|Rate	|Quantity	|Amount
+1	Grasshopper	300	2	600
+------------------------------------------------------------------------------------------------------
+Sub Total	:	Qty	:5
+         	 	Amount	:1050
+
+
+Discount		:	Rs.0
+Service Charge	:	Rs.8.792974E+22
+Service Tax	:	Rs.4.343729E+21
+VAT		:	Rs.21
+Grand Total	:	Rs.9.227347E+22
+				Thank You!!
+
+
